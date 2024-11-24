@@ -16,10 +16,10 @@ public class SistemaRegistro {
         Scanner scanner = new Scanner(System.in);
         int opcion;
 
-        System.out.println("Bienvenido al sistema de registro de lenguajes de programacion!");
+        System.out.println("        Bienvenido al Menu           ");
 
         do {
-            System.out.println("\n--- Menu ---");
+            System.out.println("\n------------ Menu ------------------");
             System.out.println("1. Agregar un nuevo lenguaje");
             System.out.println("2. Buscar un lenguaje por nombre");
             System.out.println("3. Eliminar un lenguaje");
